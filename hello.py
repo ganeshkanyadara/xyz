@@ -12,3 +12,5 @@ total_sum=0
 for i in ans:
     total_sum+=i
 print(total_sum)
+
+print("my-name-ganesh")
