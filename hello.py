@@ -1,4 +1,14 @@
 print("hello")
 print("hi")
 
-print("ganesh")
+ans=[]
+
+for i in range(10):
+    ans.append(i)
+print(ans)
+
+total_sum=0
+
+for i in ans:
+    total_sum+=i
+print(total_sum)
