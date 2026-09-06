@@ -14,3 +14,6 @@ for i in ans:
 print(total_sum)
 
 print("my-name-ganesh")
+
+print("hello-ganesh")
+
